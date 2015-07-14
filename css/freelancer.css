@@ -2,6 +2,15 @@
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+
+I would like to implement the following colors into the website
+Colors in Palette
+Hex	RGB
+#3e3c3c	(62,60,60)
+#696969	(105,105,105)
+#a7a7a7	(167,167,167)
+#e72034	(231,32,52)
+#f47474	(244,116,116)
  */
 
 body {
@@ -22,7 +31,8 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+ /*   color: #18bc9c; */
+	color: #a7a7a7;
 }
 
 h1,
